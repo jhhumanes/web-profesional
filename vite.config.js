@@ -19,5 +19,5 @@ export default {
       }
     }
   },
-  base: '/mi-repo/',
+  base: '/web-profesional/',
 }
