@@ -1,0 +1,21 @@
+// Include any default variable overrides here (though functions won't be available)
+$primary: #FF9800;
+$secondary: #448AFF;
+
+// Bootstrap
+@import "~bootstrap/scss/bootstrap";
+
+// Then add additional custom code here
+#back2Top {
+    cursor: pointer;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+
+@media screen and (min-width: 769px) {
+    .w-md-50 {
+        width: 50%;
+        max-width: 50%;
+    }
+}
